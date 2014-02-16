@@ -37,6 +37,23 @@ order:
 This course relates to
 [TEKS 130.276: "Computer Programming"](http://ritter.tea.state.tx.us/rules/tac/chapter130/ch130k.html).
 
+## Follow-up Courses
+
+This course leads into the following TCMCF courses:
+
+  * Structured Programming 201 - Covers more advanced programming
+    topics.
+  * Arduino 101 - The basic concepts from Structured Programming 101
+    can be directly applied to programming an Arduino or any other
+    microcontroller.
+
+For highly interested students, there are many programming tutorials
+and courses available online. There are many basic programming
+tutorials on the internet. There are also several courses of study
+that one can follow. Examples include Codeacademy
+(http://www.codeacademy.com), and Coursera's programming course
+(https://www.coursera.org/course/programming1).
+
 ## References
 
   * Processing Home - http://processing.org
