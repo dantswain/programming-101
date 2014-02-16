@@ -19,3 +19,5 @@ using any text editor or via github directly.
   instructor.
 * docs/internal.md - Information TCMCF uses to manage courses (cost,
   run time, class size, etc.)
+* materials/*.pdf - Course presentation and handout materials (slides,
+  etc.).
